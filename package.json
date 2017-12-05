@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2017",
+  "version": "1.0.0",
+  "description": "My adventure of code excercises for 2017.",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "Martin Lechner",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
